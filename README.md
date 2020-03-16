@@ -1,6 +1,4 @@
-# javascript-FILE
-## Add & Delete Extra Field.
-  <script>
+<script>
     $(document).ready(function () {
         var photo_div = '<div class="gallery_photo mt-2">';
         photo_div += '<div class="row">';
